@@ -3,7 +3,7 @@
 ## About Me 👋
 A former systems engineer looking to build upon my data science knowlegde and interests. I live in Leeds, UK and open to job opportunities, you can find me on:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dan-bouchard-582263107/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dan-bouchard-582263107/)][https://www.linkedin.com/in/dan-bouchard-582263107/]
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/danbouchard)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dan.bouchard96@gmail.com)
 
