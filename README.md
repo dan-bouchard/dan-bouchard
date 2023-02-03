@@ -24,6 +24,7 @@ A former systems engineer looking to build upon my data science knowlegde and in
 - [Airbnb Property Listing](https://github.com/dan-bouchard/Airbnb-Property-Listing)
 - [Facebook Marketplace Classifier](https://github.com/dan-bouchard/facebook-marketplaces-recommendation-ranking-system)
 - [Covid Airport Data Dashboard](https://github.com/dan-bouchard/Tableau-Airport-Traffic)
+- [Pinterest Data Processing Pipeline](https://github.com/dan-bouchard/pinterest-data-processing-pipeline)
 
 ## 📈 GitHub Stats
 <!--<a>
